@@ -1,1 +1,3 @@
-# tup_prog_2_2025_actividad3
+# Actividad en el aula 3
+
+[Enunciado](https://docs.google.com/document/d/1oSuvRzbG6B0c7banzXbU6SNQ_0AHb-UY/preview)
